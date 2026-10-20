@@ -1,0 +1,30 @@
+product_id,name,brand,category,price,stock,reorder_level,color
+SV001,Air Motion 270,Nike,Sneakers,8999,42,8,White / Orange
+SV002,Ultraboost 22,Adidas,Running Shoes,10999,28,8,Black
+SV003,Velocity Nitro 3,Puma,Running Shoes,7499,36,8,White / Orange
+SV004,Go Walk Flex,Skechers,Casual Shoes,5999,18,6,Grey
+SV005,Classic Leather,Reebok,Casual Shoes,5499,24,6,White
+SV006,Forum Low,Adidas,Sneakers,6999,12,6,Cream
+SV007,Air Force 1,Nike,Sneakers,9999,5,8,White
+SV008,Suede Classic,Puma,Casual Shoes,4999,8,6,Red
+SV009,Floatride Energy,Reebok,Running Shoes,6499,15,6,Black / White
+SV010,Lite Racer,Adidas,Sports Shoes,3999,52,10,Black
+SV011,Track Runner,Skechers,Sports Shoes,4599,31,8,Navy
+SV013,Red Tape Urban Flex,Red Tape,Casual Shoes,4299,26,7,White / Red
+SV014,Red Tape Athleisure,Red Tape,Sneakers,3799,21,7,Black / White
+SV015,Campus Nitro Run,Campus,Running Shoes,2899,33,8,Blue / White
+SV016,Woodland Trekker,Woodland,Boots,6999,14,5,Brown
+SV017,Bata Formal Edge,Bata,Formal Shoes,3299,19,6,Black
+SV018,Asian Street Pro,ASIAN,Sneakers,2499,29,7,Grey / Orange
+SV019,Sparx Active,Sparx,Sports Shoes,1899,37,9,Navy
+SV020,Puma Street Rider,Puma,Sneakers,5999,17,6,White / Orange
+SV021,Blacktop Rider CNY,PUMA,Casual Shoes,6499,16,6,Black / Red
+SV022,Chuck Taylor All Star,Converse,Sneakers,4999,20,6,Black / White
+SV023,Smash Pop,PUMA,Sneakers,3499,24,7,White
+SV024,Smash Comfort,PUMA,Sneakers,3999,18,6,White / Black
+SV025,H-Street Lightweight OG,PUMA,Sneakers,4999,14,5,Black / White
+SV026,OwnSHoes Street Pair 06,OwnSHoes,Sneakers,2999,12,5,Multi-colour
+SV027,OwnSHoes Street Pair 07,OwnSHoes,Sneakers,3199,15,5,Multi-colour
+SV028,OwnSHoes Street Pair 08,OwnSHoes,Sneakers,2799,17,5,Multi-colour
+SV029,OwnSHoes Street Pair 09,OwnSHoes,Sneakers,3299,11,5,Multi-colour
+SV030,OwnSHoes Street Pair 10,OwnSHoes,Sneakers,2899,19,5,Multi-colour

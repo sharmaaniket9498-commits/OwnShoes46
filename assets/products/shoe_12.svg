@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Stylized shoe illustration">
+    <defs><radialGradient id="g"><stop offset="0" stop-color="#d6a86b" stop-opacity=".26"/><stop offset="1" stop-color="#0b0b0b" stop-opacity="0"/></radialGradient><filter id="s"><feGaussianBlur stdDeviation="7"/></filter></defs>
+    <rect width="400" height="300" rx="22" fill="#10100f"/><ellipse cx="220" cy="232" rx="145" ry="35" fill="#d6a86b" opacity=".18" filter="url(#s)"/><circle cx="215" cy="145" r="105" fill="url(#g)"/>
+    <path d="M40 265 H360" stroke="#38332c" stroke-width="2"/><path d="M105 210 Q120 180 160 170 L240 170 Q282 180 300 213 L315 231 Q300 249 266 250 L123 250 Q95 244 105 210Z" fill="#4b3428" stroke="#d6a86b" stroke-width="5"/>
+        <path d="M135 195 Q155 160 184 187 L210 220 M190 180 Q215 157 238 190 L257 220" fill="none" stroke="#d6a86b" stroke-width="18" stroke-linecap="round"/>
+        <path d="M113 234 Q190 248 306 229" stroke="#f8eee0" stroke-width="9" fill="none" stroke-linecap="round"/>
+    <path d="M95 265 H310" stroke="#d6a86b" stroke-width="3" opacity=".8"/>
+    <circle cx="315" cy="55" r="20" fill="#d6a86b" opacity=".16"/><path d="M306 55 l7 7 13 -16" fill="none" stroke="#d6a86b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="25" y="35" fill="#8c857b" font-family="Arial,sans-serif" font-size="11" letter-spacing="3">SV / 12</text></svg>
